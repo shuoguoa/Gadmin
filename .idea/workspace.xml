@@ -1,0 +1,908 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6ad7711-62e2-4b75-b9df-69f03a11fa40" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/css/font-awesome.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/css/global.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/bg1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/logo1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/logo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/logo3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/logo4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/logo5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/logout_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/logout_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/images/logout_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/js/filter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/js/form_com.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/js/global.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/js/http.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/assets/js/list_com.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/components/common/Header.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/components/common/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/components/common/Sidebar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/components/page/Identify.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/components/page/Login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/components/page/ModifyPassword.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/components/page/ModifyUser.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/components/page/Readme.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/components/page/Register.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/components/page/RegisterSuccess.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/components/page/Success.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/components/page/Upload.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/components/page/UserCenter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/utils/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/vuex/actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/vuex/getters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/vuex/mutations.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/vuex/state.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/vuex/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/static/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/static/css/color-dark.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/static/css/datasource.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/static/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/static/css/theme-green/color-green.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/static/css/theme-green/fonts/element-icons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/static/css/theme-green/fonts/element-icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/static/css/theme-green/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/static/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/static/datasource.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/static/img/img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/static/img/success.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/static/img/tree.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/static/js/vendor.dll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/static/vuetable.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/php/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/thinkphp/library/think/Model.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="284">
+              <caret line="531" column="9" lean-forward="true" selection-start-line="531" selection-start-column="9" selection-end-line="531" selection-end-column="9" />
+              <folding>
+                <element signature="e#613#640#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/front/config/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="331">
+              <caret line="28" column="30" lean-forward="true" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/front/src/components/page/Login.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="62" column="21" lean-forward="true" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
+              <folding>
+                <element signature="e#2537#3782#0" />
+                <element signature="e#4178#4287#0" />
+                <element signature="e#4316#4592#0" />
+                <element signature="e#4628#4945#0" />
+                <element signature="e#6514#6576#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/front/src/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/front/node_modules/axios/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="40" lean-forward="true" selection-start-column="40" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/front/node_modules/axios/lib/axios.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-46">
+              <caret line="21" column="34" lean-forward="true" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/front/node_modules/axios/lib/defaults.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-825">
+              <caret line="21" column="46" lean-forward="true" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/front/node_modules/axios/lib/utils.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-931">
+              <caret line="23" column="40" lean-forward="true" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/front/node_modules/axios/lib/core/dispatchRequest.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="22" column="51" lean-forward="true" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/application/admin/controller/Base.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="68" column="31" lean-forward="true" selection-start-line="68" selection-start-column="31" selection-end-line="68" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>router-view</find>
+      <find>validate</find>
+      <find>rest</find>
+      <find>500</find>
+      <find>instance</find>
+      <find>store</find>
+      <find>】</find>
+      <find>vuethink接口</find>
+      <find>window.HOST</find>
+      <find>webpack.LoaderOptionsPlugin</find>
+      <find>基于</find>
+      <find>img.jpg</find>
+      <find>static</find>
+      <find>route_admin</find>
+      <find>'admin/</find>
+      <find>__rest__</find>
+      <find>VueThink</find>
+      <find>liu</find>
+      <find>route</find>
+      <find>app_debug</find>
+      <find>__re</find>
+      <find>app</find>
+      <find>convention</find>
+      <find>parseConfig</find>
+      <find>prefix</find>
+      <find>extra</find>
+      <find>connection</find>
+      <find>var_</find>
+      <find>/api</find>
+      <find>$http</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\phpstudy\PHPTutorial\WWW\VueThink\php</dir>
+      <dir>D:\phpstudy\PHPTutorial\WWW\VueThink</dir>
+      <dir>D:\phpstudy\PHPTutorial\WWW\VueThink\frontEnd</dir>
+      <dir>D:\phpstudy\PHPTutorial\WWW\Gadmin</dir>
+      <dir>D:\phpstudy\PHPTutorial\WWW\Gadmin\admin</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/frontEnd/src/vuex/store.js" />
+        <option value="$PROJECT_DIR$/php/application/admin/model/Common.php" />
+        <option value="$PROJECT_DIR$/frontEnd/build/webpack.base.conf.js" />
+        <option value="$PROJECT_DIR$/php/config/database.php" />
+        <option value="$PROJECT_DIR$/php/config/route_admin.php" />
+        <option value="$PROJECT_DIR$/php/application/admin/controller/Base.php" />
+        <option value="$PROJECT_DIR$/frontEnd/build/webpack.dev.conf.js" />
+        <option value="$PROJECT_DIR$/frontEnd/package.json" />
+        <option value="$PROJECT_DIR$/frontEnd/index.html" />
+        <option value="$PROJECT_DIR$/frontEnd/static/css/color-dark.css" />
+        <option value="$PROJECT_DIR$/frontEnd/config/index.js" />
+        <option value="$PROJECT_DIR$/frontEnd/src/components/page/Readme.vue" />
+        <option value="$PROJECT_DIR$/frontEnd/src/main.js" />
+        <option value="$PROJECT_DIR$/frontEnd/src/App.vue" />
+        <option value="$PROJECT_DIR$/frontEnd/src/components/common/Header.vue" />
+        <option value="$PROJECT_DIR$/../../nginx/conf/sers/vue-think.conf" />
+        <option value="$PROJECT_DIR$/admin/application/admin/controller/Users.php" />
+        <option value="$PROJECT_DIR$/admin/runtime/log/201904/01.log" />
+        <option value="$PROJECT_DIR$/admin/config/routes.php" />
+        <option value="$PROJECT_DIR$/admin/config/deploy.php" />
+        <option value="$PROJECT_DIR$/admin/thinkphp/library/think/Route.php" />
+        <option value="$PROJECT_DIR$/../../nginx/conf/sers/gadmin.conf" />
+        <option value="$PROJECT_DIR$/admin/public/index.php" />
+        <option value="$PROJECT_DIR$/admin/application/common.php" />
+        <option value="$PROJECT_DIR$/admin/application/admin/controller/Index.php" />
+        <option value="$PROJECT_DIR$/admin/configs/config.php" />
+        <option value="$PROJECT_DIR$/admin/application/model/User.php" />
+        <option value="$PROJECT_DIR$/admin/application/model/Common.php" />
+        <option value="$PROJECT_DIR$/admin/application/admin/model/Common.php" />
+        <option value="$PROJECT_DIR$/admin/thinkphp/convention.php" />
+        <option value="$PROJECT_DIR$/admin/configs/database.php" />
+        <option value="$PROJECT_DIR$/admin/thinkphp/library/think/Config.php" />
+        <option value="$PROJECT_DIR$/admin/thinkphp/base.php" />
+        <option value="$PROJECT_DIR$/admin/config/config.php" />
+        <option value="$PROJECT_DIR$/admin/thinkphp/library/think/Db.php" />
+        <option value="$PROJECT_DIR$/admin/routes/route.php" />
+        <option value="$PROJECT_DIR$/admin/config/database.php" />
+        <option value="$PROJECT_DIR$/admin/application/admin/model/User.php" />
+        <option value="$PROJECT_DIR$/admin/thinkphp/library/think/Model.php" />
+        <option value="$PROJECT_DIR$/admin/application/admin/controller/Base.php" />
+        <option value="$PROJECT_DIR$/front/config/index.js" />
+        <option value="$PROJECT_DIR$/front/src/components/page/Login.vue" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="390" />
+    <option name="y" value="44" />
+    <option name="width" value="1490" />
+    <option name="height" value="841" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Gadmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gadmin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gadmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gadmin" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gadmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gadmin" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gadmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gadmin" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gadmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gadmin" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gadmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gadmin" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="Base.php" type="88303cf5:PhpFileNode" />
+            </path>
+            <path>
+              <item name="Gadmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gadmin" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="Base.php" type="88303cf5:PhpFileNode" />
+              <item name="Base" type="e2efd96b:PhpElementNode" />
+            </path>
+            <path>
+              <item name="Gadmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gadmin" type="462c0819:PsiDirectoryNode" />
+              <item name="front" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gadmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gadmin" type="462c0819:PsiDirectoryNode" />
+              <item name="front" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gadmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gadmin" type="462c0819:PsiDirectoryNode" />
+              <item name="front" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="axios" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gadmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gadmin" type="462c0819:PsiDirectoryNode" />
+              <item name="front" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="axios" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gadmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gadmin" type="462c0819:PsiDirectoryNode" />
+              <item name="front" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="axios" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gadmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gadmin" type="462c0819:PsiDirectoryNode" />
+              <item name="front" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../VueThink" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\phpstudy\PHPTutorial\WWW\Gadmin\admin" />
+      <recent name="D:\phpstudy\PHPTutorial\WWW\Gadmin\admin\application" />
+      <recent name="D:\phpstudy\PHPTutorial\WWW\Gadmin\admin\application\admin" />
+      <recent name="D:\phpstudy\PHPTutorial\WWW\Gadmin\admin\extend\com" />
+      <recent name="D:\phpstudy\PHPTutorial\WWW\Gadmin\admin\application\configs" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\phpstudy\PHPTutorial\WWW\Gadmin\admin\extend" />
+      <recent name="D:\phpstudy\PHPTutorial\WWW\Gadmin\admin\application\common" />
+      <recent name="D:\phpstudy\PHPTutorial\WWW\Gadmin\admin\application\model" />
+      <recent name="D:\phpstudy\PHPTutorial\WWW\Gadmin\admin\application\validate" />
+      <recent name="D:\phpstudy\PHPTutorial\WWW\Gadmin\admin\application\admin\controller" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6ad7711-62e2-4b75-b9df-69f03a11fa40" name="Default Changelist" comment="" />
+      <created>1553133911449</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553133911449</updated>
+      <workItem from="1553133912789" duration="3294000" />
+      <workItem from="1553151454116" duration="4288000" />
+      <workItem from="1553221368025" duration="6211000" />
+      <workItem from="1553478295327" duration="11649000" />
+      <workItem from="1553568444998" duration="9747000" />
+      <workItem from="1553605259827" duration="152000" />
+      <workItem from="1553656932021" duration="6972000" />
+      <workItem from="1553736197064" duration="597000" />
+      <workItem from="1553742665759" duration="881000" />
+      <workItem from="1553752181309" duration="597000" />
+      <workItem from="1553822323086" duration="2435000" />
+      <workItem from="1553909256922" duration="4720000" />
+      <workItem from="1553926359598" duration="3379000" />
+      <workItem from="1553934423310" duration="651000" />
+      <workItem from="1554081393474" duration="2335000" />
+      <workItem from="1554084839831" duration="21057000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="78965000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="103" y="0" width="1490" height="841" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1993007" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.301273" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.65770864" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/frontEnd/src/vuex/mutations.js</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/frontEnd/src/main.js</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/front/config/index.js</url>
+          <line>29</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/admin/application/admin/controller/Base.php</url>
+          <line>7</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/admin/thinkphp/library/think/Config.php</url>
+          <line>68</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/admin/application/admin/model/Common.php</url>
+          <line>42</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/admin/thinkphp/library/think/Model.php</url>
+          <line>13</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/frontEnd/src/components/common/Header.vue" />
+    <entry file="file://$PROJECT_DIR$/../../nginx/conf/sers/vue-think.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/application/command.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/application/tags.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/thinkphp/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="399">
+            <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/application/admin/common.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="38" column="4" lean-forward="true" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/config/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="14" column="52" lean-forward="true" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/config/deploy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#6#80#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1774">
+          <caret line="158" column="17" lean-forward="true" selection-start-line="158" selection-start-column="17" selection-end-line="158" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/think">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../nginx/conf/sers/gadmin.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/public/router.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#6#80#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/thinkphp/library/think/Route.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="166" column="21" lean-forward="true" selection-start-line="166" selection-start-column="21" selection-end-line="166" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/application/route.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="18" column="6" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/thinkphp/library/think/console/command/optimize/Route.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="48" column="9" lean-forward="true" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/application/admin/controller/ApiCommon.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding>
+            <element signature="e#351#369#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/application/common.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="42" column="1" lean-forward="true" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+          <folding>
+            <element signature="n#memuLevelClear#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/application/validate/AdminUser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="41" lean-forward="true" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/application/admin/controller/Users.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/application/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/application/admin/controller/Index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/application/common/controller/Common.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/extend/com/verify/assets/bgs/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/thinkphp/convention.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="241" column="16" lean-forward="true" selection-start-line="241" selection-start-column="16" selection-end-line="241" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/thinkphp/helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="166" column="13" selection-start-line="166" selection-start-column="13" selection-end-line="166" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/vendor/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/build.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/thinkphp/library/think/App.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="253" lean-forward="true" selection-start-line="253" selection-end-line="253" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/thinkphp/library/think/Config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="203" column="43" selection-start-line="203" selection-start-column="43" selection-end-line="203" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/thinkphp/base.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="52" column="33" lean-forward="true" selection-start-line="52" selection-start-column="33" selection-end-line="52" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3687">
+          <caret line="40" column="11" lean-forward="true" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/runtime/log/201904/01.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
+          <caret line="2186" lean-forward="true" selection-start-line="2186" selection-end-line="2186" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="73" column="27" lean-forward="true" selection-start-line="73" selection-start-column="27" selection-end-line="73" selection-end-column="27" />
+          <folding>
+            <element signature="e#595#605#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/routes/route.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="24" column="6" lean-forward="true" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+          <folding>
+            <element signature="e#6#80#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/thinkphp/library/think/Db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="74" column="30" selection-start-line="74" selection-start-column="30" selection-end-line="74" selection-end-column="30" />
+          <folding>
+            <element signature="e#613#637#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/application/admin/model/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="911">
+          <caret line="51" column="21" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="21" />
+          <folding>
+            <element signature="e#206#219#0#PHP" expanded="true" />
+            <element signature="e#680#805#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/application/admin/model/Common.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+          <folding>
+            <element signature="e#584#734#0#PHP" />
+            <element signature="e#947#1278#0#PHP" />
+            <element signature="e#1556#2015#0#PHP" />
+            <element signature="e#2287#2741#0#PHP" />
+            <element signature="e#3007#3507#0#PHP" />
+            <element signature="e#3836#4351#0#PHP" />
+            <element signature="e#4375#4641#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/thinkphp/library/think/Model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="531" column="9" lean-forward="true" selection-start-line="531" selection-start-column="9" selection-end-line="531" selection-end-column="9" />
+          <folding>
+            <element signature="e#613#640#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/src/components/page/Identify.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2223">
+          <caret line="117" column="44" selection-start-line="117" selection-start-column="44" selection-end-line="117" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/application/admin/controller/Base.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="68" column="31" lean-forward="true" selection-start-line="68" selection-start-column="31" selection-end-line="68" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/config/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="28" column="30" lean-forward="true" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/src/components/page/Login.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="62" column="21" lean-forward="true" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
+          <folding>
+            <element signature="e#2537#3782#0" />
+            <element signature="e#4178#4287#0" />
+            <element signature="e#4316#4592#0" />
+            <element signature="e#4628#4945#0" />
+            <element signature="e#6514#6576#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/node_modules/axios/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="40" lean-forward="true" selection-start-column="40" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/node_modules/axios/lib/axios.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-46">
+          <caret line="21" column="34" lean-forward="true" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/node_modules/axios/lib/defaults.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-825">
+          <caret line="21" column="46" lean-forward="true" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/node_modules/axios/lib/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-931">
+          <caret line="23" column="40" lean-forward="true" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/node_modules/axios/lib/core/dispatchRequest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="51" lean-forward="true" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
